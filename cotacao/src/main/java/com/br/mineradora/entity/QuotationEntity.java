@@ -23,7 +23,7 @@ public class QuotationEntity {
     private BigDecimal currencyPrice;
 
     @Column(name="percentage_change")
-    private String percentageChange;
+    private String pctChange;
 
     private String pairCurrency;
 }

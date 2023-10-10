@@ -17,7 +17,7 @@ public class USDBRL {
     public String high;
     public String low;
     public String varBid;
-    public String percentageChange;
+    public String pctChange;
     public String bid;
     public String ask;
     public String timestamp;
